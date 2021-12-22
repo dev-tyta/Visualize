@@ -1,6 +1,0 @@
-pandas as pd
-sklearn
-seaborn as sns
-streamlit as st
-matplotlib.pyplot as plt
-time
