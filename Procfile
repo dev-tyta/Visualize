@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Visualisation_app.py
+web: gunicorn gettingstarted.wsgi
