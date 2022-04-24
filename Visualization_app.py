@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import time
 
 
-st.title("Data Visualisation App")
+st.title("*Data Visualisation App*")
 
 st.write("Visualisation has been made easy for data scientist using this app.")
 
