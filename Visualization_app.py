@@ -84,3 +84,5 @@ elif selected_plottype == "Count-plot":
     ax = sns.countplot(x=dataset[selected_var])
 
 st.pyplot(fig)
+
+st.download_button(label='Download Image.', file_name='download', data=fig)
